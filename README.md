@@ -5,11 +5,6 @@
 - Estou estudando mais sobre desenvolvimento Web, em particular Typescript e React, e Machine Learning usando Python
 -->
 
-<div>
-  <a href="https://github.com/nicolas-allonso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-allonso&layout=compact&langs_count=16&theme=dracula"
-</div>
-
 <div style="display: inline-block"><br>
   <img align="center" alt="html_icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="html_icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
