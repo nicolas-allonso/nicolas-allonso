@@ -11,5 +11,5 @@
 </div>
 
 <div style="display: inline-block"><br>
-  <img align="center" alt="html_icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/master/icons/html5/html5-original.svg">
+  <img align="center" alt="html_icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
