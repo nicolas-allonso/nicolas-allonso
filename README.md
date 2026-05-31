@@ -6,6 +6,6 @@
 -->
 
 <div>
-  <a href="https://beacons.ai/nicolas-allonso">
+  <a href="https://github.com/nicolas-allonso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-allonso&layout=compact&langs_count=16&theme=dracula"
 </div>
